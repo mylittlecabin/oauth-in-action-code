@@ -16,5 +16,5 @@ Justin Richer is a systems architect, software engineer, standards editor, and s
 
 ---
 # 注意 ！！！
-本地调试前，浏览器注意安装   
+本地调试前，浏览器注意先安装插件   
 [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN)
